@@ -1,0 +1,26 @@
+.BOB{
+    background-color: white;
+    color: orangered;
+    font-size: x-large;
+}
+li{
+    display: inline-block;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+}
+li a{
+    text-decoration: none;
+    color:orangered;
+}
+li a:hover{
+    background-color: black;
+}
+body{
+    background-color: orangered
+}
+.Home{
+    background-color: orangered;
+}
